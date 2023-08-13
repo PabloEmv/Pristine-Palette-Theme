@@ -1,9 +1,9 @@
 {
   "name": "pristine-palette",
   "displayName": "Pristine Palette",
-  "description": "The \"Pristine Palette\" theme gives you a serene and focused interface for your development environment. Designed with a minimalist aesthetic, this theme focuses on delivering a polished and distraction-free coding experience.",
+  "description": "Pristine Palette - vscode theme",
   "version": "0.0.1",
-  "icon": "./icons/pristine_palette.png",
+  "icon": "./assets/icons/pristine_palette.png",
   "author": {
     "name": "Pablo Martinez"
   },
