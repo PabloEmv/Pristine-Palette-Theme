@@ -1,0 +1,30 @@
+{
+  "name": "pristine-palette",
+  "displayName": "Pristine Palette",
+  "description": "The \"Pristine Palette\" theme gives you a serene and focused interface for your development environment. Designed with a minimalist aesthetic, this theme focuses on delivering a polished and distraction-free coding experience.",
+  "version": "0.0.1",
+  "icon": "./icons/pristine_palette.png",
+  "author": {
+    "name": "Pablo Martinez"
+  },
+  "repository": {
+    "url": "https://github.com/PabloEmv/Pristine-Palette-Theme.git",
+    "type": "git"
+  },
+  "publisher": "pablo-martinez",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pristine Palette",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pristine Palette-color-theme.json"
+      }
+    ]
+  }
+}
