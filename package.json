@@ -2,7 +2,7 @@
   "name": "pristine-palette",
   "displayName": "Pristine Palette",
   "description": "Pristine Palette - vscode theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "pristine_palette.png",
   "author": {
     "name": "Pablo Martinez"
@@ -13,7 +13,7 @@
   },
   "publisher": "pablo-martinez-dev",
   "engines": {
-    "vscode": "^1.81.0"
+    "vscode": ">=1.52.0"
   },
   "categories": [
     "Themes"
